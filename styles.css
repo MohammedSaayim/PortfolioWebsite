@@ -157,3 +157,15 @@ hr {
     margin: 2em;
 
 }
+
+.blog-title .link{
+    color: var(--primary-color);
+    padding-left: 0;
+}
+
+.blog-title{
+    text-align: left;
+}
+time{
+    font-size: 0.9rem;
+}
