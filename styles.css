@@ -160,3 +160,7 @@ time{
 .project-list li{
     padding-bottom: 4rem;
 }
+
+footer{
+    text-transform: capitalize;
+}
